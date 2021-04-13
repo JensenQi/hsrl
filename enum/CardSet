@@ -1,0 +1,8 @@
+
+enum class CardSet {
+    core(1637),
+    madnessAtTheDarkmoonFaire(1466),
+    ashesOfOutland(1414),
+    forgedInTheBarrens(1525),
+    scholomanceAcademy(1443)
+}

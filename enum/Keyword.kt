@@ -1,0 +1,26 @@
+
+class Keyword(val id: Int) {
+    taunt(1),
+    spellpower(2),
+    divine-shield(3),
+    charge(4),
+    secret(5),
+    stealth(6),
+    battlecry(8),
+    freeze(10),
+    windfury(11),
+    combo(13),
+    overload(14),
+    silence(15),
+    immune(17),
+    deathrattle(12),
+    discover(21),
+    poisonous(32),
+    lifesteal(38),
+    rush(53),
+    outcast(86),
+    spellburst(88),
+    corrupt(91),
+    frenzy(99),
+    spellpowernature(104)
+}
